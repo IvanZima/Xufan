@@ -14,4 +14,4 @@
    
 流程图<br>
 ====
-![Image text]
+![Image text](https://github.com/IvanZima/Xufan/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.PNG)
