@@ -34,3 +34,21 @@
 	}
 通过for循环进行字符串的分割和添加标点符号。
 
+      public static int count(String srcStr, String findStr) {
+		int count = 0;
+		int index = 0;
+		while ((index = srcStr.indexOf(findStr, index)) != -1) {
+			index = index + findStr.length();
+			count++;
+		}
+		return count;
+	}
+	int count = count(args[0], str);
+        System.out.println(str + " 出现 " + count + " 次。");
+	
+编写count函数对字符串的计数以及函数的调用<br>
+
+程序截图<br>
+=========
+
+
