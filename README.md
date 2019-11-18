@@ -50,6 +50,10 @@
 
 程序截图<br>
 =========
-![Image text](https://github.com/IvanZima/Xufan/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2.PNG)
 
+![Image text](https://github.com/IvanZima/Xufan/blob/master/%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE.PNG)
 
+实验感想<br>
+========
+
+经过本次上机实验，我初步了解分析系统需求，学会了对于字符串的增删及分割。能够独立完成对于字符串的一系列操作。通过这次实验让我懂得了理论与实际相结合是很重要的，只有理论知识是远远不够的，只有把所学的理论知识与实践相结合起来，并且培养了我独立思考，分析问题，并解决问题的方法。
